@@ -17,9 +17,15 @@ We convert IP address to actual cities and countries. All of the results are in 
 
 # Demographic distribution 
 
+## Q36
+ What is your gender? 
+
 - Male: 70.23%
 - Female: 26.30%
 - Other: 3.47%
+
+## Q37
+ Which of the following best describes you? 
 
 - White or Caucasian: 51.91%
 - Black or African American: 26.41%
@@ -28,8 +34,14 @@ We convert IP address to actual cities and countries. All of the results are in 
 - Multiracial or Biracial: 4.12%
 - Asian or Pacific Islander: 2.14%
 
+## Q39
+ Are you a sworn or non-sworn professional employee of the Philadelphia Police Department? 
+
 - Sworn: 84.23%
 - Non-sworn professional: 15.77%
+
+## Q39-3
+ How many years have you been on the force? OR How many years have you worked for the Philadelphia Police Department? 
 
 - 0-2 years: 4.73%
 - 3-5 years: 4.01%
@@ -1170,6 +1182,7 @@ We convert IP address to actual cities and countries. All of the results are in 
  What would help improve the relationship between non-sworn and sworn personnel at the Philadelphia Police Department? 
 
 WordCloud: 
+
 ![Word Cloud for Q14](/wordclouds/Q14.png)
 
 ## Q15
@@ -1508,9 +1521,11 @@ WordCloud:
  You just told us that the Philadelphia Police Department (always/usually/sometimes/hardly ever/never) provides opportunities for professional development and training for its personnel. In one sentence, can you explain why you think so? 
 
 WordCloud for **Always**, **Usually**, **Sometimes**: 
+
 ![Word Cloud for Q22](/wordclouds/Q22_1.png)
 
 WordCloud for **Hardly ever**, **Never**: 
+
 ![Word Cloud for Q22](/wordclouds/Q22_2.png)
 
 ## Q23_1
@@ -2066,5 +2081,6 @@ Your insights will contribute significantly to shaping the focus and priorities 
  Are there any other comments or suggestions you would like to share that was not asked in this survey? 
 
 WordCloud: 
+
 ![Word Cloud for Q34](/wordclouds/Q34.png)
 
