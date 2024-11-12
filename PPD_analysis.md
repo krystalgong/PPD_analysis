@@ -88,7 +88,7 @@
  What would help improve the relationship between non-sworn and sworn personnel at the Philadelphia Police Department? 
 
 WordCloud: 
-![Word Cloud for Q14](/Users/krystalgong/Desktop/wordcloud_Q14.png)
+![Word Cloud for Q14](/wordclouds/Q14.png)
 
 ## Q15
  How often are employees in your department asked for their input on decisions that will affect them? 
@@ -120,7 +120,7 @@ WordCloud:
  You just told us that the Philadelphia Police Department (always?...) provides opportunities for professional development and training for its personnel. In one sentence, can you explain why you think so? 
 
 WordCloud: 
-![Word Cloud for Q22](/Users/krystalgong/Desktop/wordcloud_Q22.png)
+![Word Cloud for Q22](/wordclouds/Q22.png)
 
 ## Q23_1
  Please tell us if you agree or disagree with the following statements. 
