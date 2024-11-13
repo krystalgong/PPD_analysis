@@ -17,15 +17,15 @@
 | Someone else              |    0.24 |   0.21 |    0    |
 | Sample Size (n)           | 1267    | 958    |   42    |
 
-| PresidentVotechoice       |   Asian |   Asian,Black/African-American |   Asian,Black/African-American,White |   Asian,Black/African-American,White,Other: |   Asian,Hispanic |   Asian,White |   Asian,White,Hispanic |   Black/African-American |   Black/African-American,Hispanic |   Black/African-American,White |   Hispanic |   Other: |   White |   White,Hispanic |   White,Other: |
-|:--------------------------|--------:|-------------------------------:|-------------------------------------:|--------------------------------------------:|-----------------:|--------------:|-----------------------:|-------------------------:|----------------------------------:|-------------------------------:|-----------:|---------:|--------:|-----------------:|---------------:|
-| Chase Oliver (L)          |    0    |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     0.5  |                                 0 |                           0    |        0   |     0    |    0.29 |                0 |           0    |
-| Did not vote in this race |    0    |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     0    |                                 0 |                           0    |        0.8 |     0    |    0.35 |                0 |           0    |
-| Donald Trump (R)          |    9.52 |                              0 |                                   50 |                                           0 |                0 |             4 |                      0 |                     4.02 |                                 0 |                           8.33 |       13.6 |    16.28 |   24.96 |               10 |          66.67 |
-| Jill Stein (G)            |    0    |                              0 |                                    0 |                                           0 |                0 |             4 |                      0 |                     0.5  |                                 0 |                           0    |        0   |     4.65 |    0.46 |                0 |           0    |
-| Kamala Harris (D)         |   88.57 |                            100 |                                   50 |                                         100 |              100 |            92 |                    100 |                    94.47 |                               100 |                          91.67 |       85.6 |    79.07 |   73.83 |               90 |          33.33 |
-| Someone else              |    1.9  |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     0.5  |                                 0 |                           0    |        0   |     0    |    0.12 |                0 |           0    |
-| Sample Size (n)           |  105    |                              2 |                                    2 |                                           1 |                2 |            25 |                      1 |                   199    |                                 3 |                          12    |      125   |    43    | 1735    |               20 |           3    |
+| PresidentVotechoice       |   Asian |   Black/African-American |   Hispanic |   Other: |   White |
+|:--------------------------|--------:|-------------------------:|-----------:|---------:|--------:|
+| Chase Oliver (L)          |    0    |                     0.46 |       0    |     0    |    0.28 |
+| Did not vote in this race |    0    |                     0    |       0.66 |     0    |    0.33 |
+| Donald Trump (R)          |    8.7  |                     4.57 |      12.58 |    19.15 |   24.46 |
+| Jill Stein (G)            |    0.72 |                     0.46 |       0    |     4.26 |    0.5  |
+| Kamala Harris (D)         |   89.13 |                    94.06 |      86.75 |    76.6  |   74.32 |
+| Someone else              |    1.45 |                     0.46 |       0    |     0    |    0.11 |
+| Sample Size (n)           |  138    |                   219    |     151    |    47    | 1799    |
 
 | PresidentVotechoice       |   College graduate |   High school graduate |   Less than high school |   Postgraduate degree |   Some college |
 |:--------------------------|-------------------:|-----------------------:|------------------------:|----------------------:|---------------:|
@@ -68,16 +68,16 @@
 | Someone else              |    0.16 |   0    |    0    |
 | Sample Size (n)           | 1263    | 955    |   42    |
 
-| SenateVotechoice          |   Asian |   Asian,Black/African-American |   Asian,Black/African-American,White |   Asian,Black/African-American,White,Other: |   Asian,Hispanic |   Asian,White |   Asian,White,Hispanic |   Black/African-American |   Black/African-American,Hispanic |   Black/African-American,White |   Hispanic |   Other: |   White |   White,Hispanic |   White,Other: |
-|:--------------------------|--------:|-------------------------------:|-------------------------------------:|--------------------------------------------:|-----------------:|--------------:|-----------------------:|-------------------------:|----------------------------------:|-------------------------------:|-----------:|---------:|--------:|-----------------:|---------------:|
-| Bob Casey Jr. (D)         |   87.5  |                            100 |                                   50 |                                         100 |              100 |            84 |                    100 |                    89.9  |                               100 |                          91.67 |      80.33 |    81.4  |   74.15 |               90 |          33.33 |
-| Dave McCormick (R)        |    8.65 |                              0 |                                   50 |                                           0 |                0 |             4 |                      0 |                     4.04 |                                 0 |                           8.33 |      13.11 |    16.28 |   23.77 |               10 |          33.33 |
-| Did not vote in this race |    1.92 |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     2.53 |                                 0 |                           0    |       2.46 |     0    |    0.75 |                0 |           0    |
-| John Thomas (L)           |    0    |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     1.01 |                                 0 |                           0    |       0    |     0    |    0.63 |                0 |          33.33 |
-| Leila Hazou (G)           |    1.92 |                              0 |                                    0 |                                           0 |                0 |            12 |                      0 |                     1.52 |                                 0 |                           0    |       4.1  |     2.33 |    0.52 |                0 |           0    |
-| Marty Selker (C)          |    0    |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     0    |                                 0 |                           0    |       0    |     0    |    0.17 |                0 |           0    |
-| Someone else              |    0    |                              0 |                                    0 |                                           0 |                0 |             0 |                      0 |                     1.01 |                                 0 |                           0    |       0    |     0    |    0    |                0 |           0    |
-| Sample Size (n)           |  104    |                              2 |                                    2 |                                           1 |                2 |            25 |                      1 |                   198    |                                 3 |                          12    |     122    |    43    | 1733    |               20 |           3    |
+| SenateVotechoice          |   Asian |   Black/African-American |   Hispanic |   Other: |   White |
+|:--------------------------|--------:|-------------------------:|-----------:|---------:|--------:|
+| Bob Casey Jr. (D)         |   86.86 |                    89.91 |      82.43 |    78.72 |   74.51 |
+| Dave McCormick (R)        |    8.03 |                     4.59 |      12.16 |    17.02 |   23.26 |
+| Did not vote in this race |    1.46 |                     2.29 |       2.03 |     0    |    0.72 |
+| John Thomas (L)           |    0    |                     0.92 |       0    |     2.13 |    0.67 |
+| Leila Hazou (G)           |    3.65 |                     1.38 |       3.38 |     2.13 |    0.67 |
+| Marty Selker (C)          |    0    |                     0    |       0    |     0    |    0.17 |
+| Someone else              |    0    |                     0.92 |       0    |     0    |    0    |
+| Sample Size (n)           |  137    |                   218    |     148    |    47    | 1797    |
 
 | SenateVotechoice          |   College graduate |   High school graduate |   Less than high school |   Postgraduate degree |   Some college |
 |:--------------------------|-------------------:|-----------------------:|------------------------:|----------------------:|---------------:|
@@ -124,17 +124,17 @@
 | The Republican candidate  |   16.59 |  23.92 |    3.12 |
 | Sample Size (n)           | 1055    | 807    |   32    |
 
-| CongressVotechoice        |   Asian |   Asian,Black/African-American |   Asian,Black/African-American,White |   Asian,Black/African-American,White,Other: |   Asian,Hispanic |   Asian,White |   Asian,White,Hispanic |   Black/African-American |   Black/African-American,Hispanic |   Black/African-American,White |   Hispanic |   Other: |   White |   White,Hispanic |   White,Other: |
-|:--------------------------|--------:|-------------------------------:|-------------------------------------:|--------------------------------------------:|-----------------:|--------------:|-----------------------:|-------------------------:|----------------------------------:|-------------------------------:|-----------:|---------:|--------:|-----------------:|---------------:|
-| Alfe Goodwin (R)          |    1.12 |                              0 |                                    0 |                                           0 |                0 |          0    |                      0 |                     0.87 |                                 0 |                              0 |       0.93 |     0    |    0.4  |             0    |           0    |
-| Did not vote in this race |    4.49 |                              0 |                                    0 |                                           0 |                0 |          5.56 |                      0 |                     0.87 |                                 0 |                              0 |       0.93 |     2.94 |    1.07 |             0    |           0    |
-| Janelle Stelson (D)       |    2.25 |                              0 |                                    0 |                                           0 |                0 |          0    |                      0 |                    14.78 |                                 0 |                              0 |       2.8  |     8.82 |   10.29 |             0    |           0    |
-| Mary Gay Scanlon (D)      |   49.44 |                            100 |                                   50 |                                           0 |              100 |         55.56 |                    100 |                    21.74 |                                 0 |                             30 |      20.56 |    29.41 |   15.63 |            50    |          33.33 |
-| Scott Perry (R)           |    2.25 |                              0 |                                    0 |                                           0 |                0 |          0    |                      0 |                     2.61 |                                 0 |                              0 |       0.93 |     5.88 |    6.35 |             0    |          33.33 |
-| Someone else              |    0    |                              0 |                                    0 |                                           0 |                0 |          0    |                      0 |                     1.74 |                                 0 |                              0 |       0.93 |     0    |    0.33 |             0    |           0    |
-| The Democratic candidate  |   33.71 |                              0 |                                    0 |                                         100 |                0 |         33.33 |                      0 |                    52.17 |                               100 |                             60 |      59.81 |    44.12 |   43.55 |            38.89 |           0    |
-| The Republican candidate  |    6.74 |                              0 |                                   50 |                                           0 |                0 |          5.56 |                      0 |                     5.22 |                                 0 |                             10 |      13.08 |     8.82 |   22.38 |            11.11 |          33.33 |
-| Sample Size (n)           |   89    |                              2 |                                    2 |                                           1 |                2 |         18    |                      1 |                   115    |                                 3 |                             10 |     107    |    34    | 1497    |            18    |           3    |
+| CongressVotechoice        |   Asian |   Black/African-American |   Hispanic |   Other: |   White |
+|:--------------------------|--------:|-------------------------:|-----------:|---------:|--------:|
+| Alfe Goodwin (R)          |    0.87 |                     0.75 |       0.76 |     0    |    0.39 |
+| Did not vote in this race |    4.35 |                     0.75 |       0.76 |     2.63 |    1.1  |
+| Janelle Stelson (D)       |    1.74 |                    12.78 |       2.29 |     7.89 |    9.94 |
+| Mary Gay Scanlon (D)      |   52.17 |                    23.31 |      25.95 |    28.95 |   16.71 |
+| Scott Perry (R)           |    1.74 |                     2.26 |       0.76 |     7.89 |    6.19 |
+| Someone else              |    0    |                     1.5  |       0.76 |     0    |    0.32 |
+| The Democratic candidate  |   32.17 |                    52.63 |      56.49 |    42.11 |   43.35 |
+| The Republican candidate  |    6.96 |                     6.02 |      12.21 |    10.53 |   22    |
+| Sample Size (n)           |  115    |                   133    |     131    |    38    | 1550    |
 
 | CongressVotechoice        |   College graduate |   High school graduate |   Less than high school |   Postgraduate degree |   Some college |
 |:--------------------------|-------------------:|-----------------------:|------------------------:|----------------------:|---------------:|
@@ -175,13 +175,13 @@
 | The Republican candidate  |   17.37 |  27.34 |    2.44 |
 | Sample Size (n)           | 1261    | 951    |   41    |
 
-| PAAssemblyVotechoice      |   Asian |   Asian,Black/African-American |   Asian,Black/African-American,White |   Asian,Black/African-American,White,Other: |   Asian,Hispanic |   Asian,White |   Asian,White,Hispanic |   Black/African-American |   Black/African-American,Hispanic |   Black/African-American,White |   Hispanic |   Other: |   White |   White,Hispanic |   White,Other: |
-|:--------------------------|--------:|-------------------------------:|-------------------------------------:|--------------------------------------------:|-----------------:|--------------:|-----------------------:|-------------------------:|----------------------------------:|-------------------------------:|-----------:|---------:|--------:|-----------------:|---------------:|
-| Did not vote in this race |    4.81 |                              0 |                                    0 |                                           0 |                0 |          8.33 |                      0 |                     3.03 |                                 0 |                           0    |       1.61 |     2.33 |    1.51 |                0 |           0    |
-| Someone else              |    0.96 |                              0 |                                    0 |                                           0 |                0 |          0    |                      0 |                     0.51 |                                 0 |                           0    |       0.81 |     2.33 |    0.64 |                0 |           0    |
-| The Democratic candidate  |   84.62 |                            100 |                                   50 |                                         100 |              100 |         87.5  |                    100 |                    92.93 |                               100 |                          91.67 |      84.68 |    81.4  |   72.71 |               90 |          33.33 |
-| The Republican candidate  |    9.62 |                              0 |                                   50 |                                           0 |                0 |          4.17 |                      0 |                     3.54 |                                 0 |                           8.33 |      12.9  |    13.95 |   25.14 |               10 |          66.67 |
-| Sample Size (n)           |  104    |                              2 |                                    2 |                                           1 |                2 |         24    |                      1 |                   198    |                                 3 |                          12    |     124    |    43    | 1726    |               20 |           3    |
+| PAAssemblyVotechoice      |   Asian |   Black/African-American |   Hispanic |   Other: |   White |
+|:--------------------------|--------:|-------------------------:|-----------:|---------:|--------:|
+| Did not vote in this race |    5.15 |                     2.75 |       1.33 |     2.13 |    1.57 |
+| Someone else              |    0.74 |                     0.46 |       0.67 |     2.13 |    0.61 |
+| The Democratic candidate  |   85.29 |                    92.66 |      86    |    78.72 |   73.17 |
+| The Republican candidate  |    8.82 |                     4.13 |      12    |    17.02 |   24.65 |
+| Sample Size (n)           |  136    |                   218    |     150    |    47    | 1789    |
 
 | PAAssemblyVotechoice      |   College graduate |   High school graduate |   Less than high school |   Postgraduate degree |   Some college |
 |:--------------------------|-------------------:|-----------------------:|------------------------:|----------------------:|---------------:|
