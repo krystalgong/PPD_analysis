@@ -25,14 +25,14 @@ We convert IP address to actual cities and countries. All of the results are in 
  **Note**: Due to the small number of responses in certain categories, **Non-binary** has been combined with **Other** under gender, and **Native American or Alaskan Native** has been combined with **A race/ethnicity not listed here** in race. 
 
 ## Q36
- What is your gender? 
+ **What is your gender?** 
 
 - Male: 70.23%
 - Female: 26.30%
 - Other: 3.47%
 
 ## Q37
- Which of the following best describes you? 
+ **Which of the following best describes you?** 
 
 - White or Caucasian: 51.91%
 - Black or African American: 26.41%
@@ -42,13 +42,13 @@ We convert IP address to actual cities and countries. All of the results are in 
 - Asian or Pacific Islander: 2.14%
 
 ## Q39
- Are you a sworn or non-sworn professional employee of the Philadelphia Police Department? 
+ **Are you a sworn or non-sworn professional employee of the Philadelphia Police Department?** 
 
 - Sworn: 84.23%
 - Non-sworn professional: 15.77%
 
 ## Q39-3
- How many years have you been on the force? OR How many years have you worked for the Philadelphia Police Department? 
+ **How many years have you been on the force? OR How many years have you worked for the Philadelphia Police Department?** 
 
 - 0-2 years: 4.73%
 - 3-5 years: 4.01%
@@ -1993,9 +1993,7 @@ We convert IP address to actual cities and countries. All of the results are in 
 
 ## Q33
  **Please select up to three areas that you believe should be prioritized by the DEI Office.
-
 If you choose "Other", kindly specify any additional areas you think should be considered.
-
 Your insights will contribute significantly to shaping the focus and priorities of our DEI initiatives. Thank you for your valuable input.** 
 
 - Recruiting: 5.91%
