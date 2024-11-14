@@ -837,8 +837,6 @@ We convert IP address to actual cities and countries. All of the results are in 
 ## Q12-3
  **You said that you (strongly) agree with the statement “I have personally experienced discrimination in the Philadelphia Police Department.” Would you say that the discrimination you experienced was due to** 
 
-### Percentage of Respondents Selecting Each Option
-
 - Race: 34.77%
 - Sex: 17.16%
 - Gender: 15.45%
@@ -1190,8 +1188,6 @@ We convert IP address to actual cities and countries. All of the results are in 
 ## Q14
  **What would help improve the relationship between non-sworn and sworn personnel at the Philadelphia Police Department?** 
 
-WordCloud: 
-
 ![Word Cloud for Q14](/wordclouds/Q14.png)
 
 ## Q15
@@ -1529,11 +1525,11 @@ WordCloud:
 ## Q22
  **You just told us that the Philadelphia Police Department (always/usually/sometimes/hardly ever/never) provides opportunities for professional development and training for its personnel. In one sentence, can you explain why you think so?** 
 
-WordCloud for **Always**, **Usually**, **Sometimes**: 
+### WordCloud for **Always**, **Usually**, **Sometimes** 
 
 ![Word Cloud for Q22](/wordclouds/Q22_1.png)
 
-WordCloud for **Hardly ever**, **Never**: 
+### WordCloud for **Hardly ever**, **Never** 
 
 ![Word Cloud for Q22](/wordclouds/Q22_2.png)
 
@@ -1854,10 +1850,10 @@ WordCloud for **Hardly ever**, **Never**:
 ## Q28
  **You just told us that you (agree or disagree) that the process for transfers and assignments is fair. In one sentence, can you explain why you think so?** 
 
-WordCloud for **Strongly agree**, **Somewhat agree**: 
+### WordCloud for **Strongly agree**, **Somewhat agree** 
 ![Word Cloud for Q28](/wordclouds/Q28_1.png)
 
-WordCloud for **Somewhat disagree**, **Strongly disagree**: 
+### WordCloud for **Somewhat disagree**, **Strongly disagree** 
 ![Word Cloud for Q28](/wordclouds/Q28_2.png)
 
 ## Q29
@@ -2002,8 +1998,6 @@ If you choose "Other", kindly specify any additional areas you think should be c
 
 Your insights will contribute significantly to shaping the focus and priorities of our DEI initiatives. Thank you for your valuable input.** 
 
-### Percentage of Respondents Selecting Each Option
-
 - Recruiting: 5.91%
 - Hiring: 6.45%
 - Retention: 16.27%
@@ -2088,8 +2082,6 @@ Your insights will contribute significantly to shaping the focus and priorities 
 
 ## Q34
  **Are there any other comments or suggestions you would like to share that was not asked in this survey?** 
-
-WordCloud: 
 
 ![Word Cloud for Q34](/wordclouds/Q34.png)
 
