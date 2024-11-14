@@ -59,7 +59,9 @@ We convert IP address to actual cities and countries. All of the results are in 
 
 # Answer Distribution and Word Cloud
 
-**Note**: Questions Q14, Q22, Q28, Q30, and Q34 are open-ended and include word clouds. Questions Q12-3 and Q33 are multiple-choice.## Q1
+**Note**: Questions Q14, Q22, Q28, Q30, and Q34 are open-ended and include word clouds. Questions Q12-3 and Q33 are multiple-choice. 
+
+## Q1
  **Do you agree or disagree with the following statements? I am valued within the Philadelphia Police Department.** 
 
 - Strongly agree: 8.05%
@@ -894,20 +896,20 @@ We convert IP address to actual cities and countries. All of the results are in 
 | Other [Please write in]                                 |                 14.1593  |   5.81257 |
 | Sample Size (n)                                         |                112       | 598       |
 
-| Choice                                                  |   0-2 years |   11-15 years |   16-25 years |   3-5 years |   6-10 years |   More than 25 years |
-|:--------------------------------------------------------|------------:|--------------:|--------------:|------------:|-------------:|---------------------:|
-| Race                                                    |    21.4286  |      33.7209  |      34.2939  |    11.1111  |     29.1667  |            36.8272   |
-| Sex                                                     |    21.4286  |      17.4419  |      19.3084  |    11.1111  |     15.8333  |            16.1473   |
-| Gender                                                  |    14.2857  |      15.1163  |      14.6974  |    16.6667  |     12.5     |            15.864    |
-| Age                                                     |     0       |       6.97674 |       5.76369 |     0       |      5.83333 |             7.93201  |
-| Disability                                              |     0       |       0       |       1.72911 |     5.55556 |      2.5     |             0.849858 |
-| Religion                                                |     7.14286 |       1.16279 |       2.59366 |     5.55556 |      4.16667 |             3.68272  |
-| Nationality                                             |     0       |       5.81395 |       3.7464  |    11.1111  |      5.83333 |             4.81586  |
-| Sexual orientation                                      |     7.14286 |       5.81395 |       3.17003 |     5.55556 |      5.83333 |             3.39943  |
-| Family care status/your responsibilities to your family |     7.14286 |       2.32558 |       4.89914 |     5.55556 |      9.16667 |             3.68272  |
-| Military status                                         |     0       |       2.32558 |       2.30548 |     0       |      3.33333 |             1.13314  |
-| Other [Please write in]                                 |    14.2857  |       6.97674 |       7.20461 |    27.7778  |      4.16667 |             5.66572  |
-| Sample Size (n)                                         |    33       |      74       |     233       |    28       |     89       |           241        |
+| Choice                                                  |   0-2 years |   3-5 years |   6-10 years |   11-15 years |   16-25 years |   More than 25 years |
+|:--------------------------------------------------------|------------:|------------:|-------------:|--------------:|--------------:|---------------------:|
+| Race                                                    |    21.4286  |    11.1111  |     29.1667  |      33.7209  |      34.2939  |            36.8272   |
+| Sex                                                     |    21.4286  |    11.1111  |     15.8333  |      17.4419  |      19.3084  |            16.1473   |
+| Gender                                                  |    14.2857  |    16.6667  |     12.5     |      15.1163  |      14.6974  |            15.864    |
+| Age                                                     |     0       |     0       |      5.83333 |       6.97674 |       5.76369 |             7.93201  |
+| Disability                                              |     0       |     5.55556 |      2.5     |       0       |       1.72911 |             0.849858 |
+| Religion                                                |     7.14286 |     5.55556 |      4.16667 |       1.16279 |       2.59366 |             3.68272  |
+| Nationality                                             |     0       |    11.1111  |      5.83333 |       5.81395 |       3.7464  |             4.81586  |
+| Sexual orientation                                      |     7.14286 |     5.55556 |      5.83333 |       5.81395 |       3.17003 |             3.39943  |
+| Family care status/your responsibilities to your family |     7.14286 |     5.55556 |      9.16667 |       2.32558 |       4.89914 |             3.68272  |
+| Military status                                         |     0       |     0       |      3.33333 |       2.32558 |       2.30548 |             1.13314  |
+| Other [Please write in]                                 |    14.2857  |    27.7778  |      4.16667 |       6.97674 |       7.20461 |             5.66572  |
+| Sample Size (n)                                         |    33       |    28       |     89       |      74       |     233       |           241        |
 
 ## Q13_1
  **To what extent do you agree or disagree with the following statement? 
@@ -2067,22 +2069,22 @@ Your insights will contribute significantly to shaping the focus and priorities 
 | Other                                           |                  3.52564 |   6.9435  |
 | Sample Size (n)                                 |                112       | 598       |
 
-| Choice                                          |   0-2 years |   11-15 years |   16-25 years |   3-5 years |   6-10 years |   More than 25 years |
-|:------------------------------------------------|------------:|--------------:|--------------:|------------:|-------------:|---------------------:|
-| Recruiting                                      |     7.36842 |       5.61224 |       5.58464 |     0       |      5.91133 |              7.14286 |
-| Hiring                                          |     9.47368 |       5.61224 |       5.75916 |     6.84932 |      4.4335  |              8.27922 |
-| Retention                                       |    13.6842  |      18.3673  |      16.9284  |    17.8082  |     18.7192  |             14.4481  |
-| Transfers                                       |     4.21053 |       8.16327 |      12.2164  |     1.36986 |     10.8374  |             11.8506  |
-| Training and Development                        |    17.8947  |      12.2449  |      10.6457  |    19.1781  |     12.3153  |             11.6883  |
-| Community engagement and relations              |     2.10526 |       4.59184 |       3.66492 |     4.10959 |      2.95567 |              3.08442 |
-| Leadership development                          |     7.36842 |       8.16327 |       7.67888 |    10.9589  |      7.88177 |              8.11688 |
-| Promotions                                      |     5.26316 |       7.14286 |       7.32984 |     8.21918 |      4.92611 |              7.95455 |
-| Written policies                                |     4.21053 |       1.02041 |       2.6178  |     1.36986 |      3.44828 |              1.94805 |
-| Workplace culture                               |    16.8421  |      11.2245  |       8.20244 |    13.6986  |     10.3448  |              8.27922 |
-| Employee support and wellbeing programs         |     4.21053 |       7.14286 |       6.80628 |     9.58904 |      5.91133 |              7.46753 |
-| Reporting and addressing discrimination or bias |     4.21053 |       6.12245 |       4.88656 |     2.73973 |      4.4335  |              3.8961  |
-| Other                                           |     3.15789 |       4.59184 |       7.67888 |     4.10959 |      7.88177 |              5.84416 |
-| Sample Size (n)                                 |    33       |      74       |     233       |    28       |     89       |            241       |
+| Choice                                          |   0-2 years |   3-5 years |   6-10 years |   11-15 years |   16-25 years |   More than 25 years |
+|:------------------------------------------------|------------:|------------:|-------------:|--------------:|--------------:|---------------------:|
+| Recruiting                                      |     7.36842 |     0       |      5.91133 |       5.61224 |       5.58464 |              7.14286 |
+| Hiring                                          |     9.47368 |     6.84932 |      4.4335  |       5.61224 |       5.75916 |              8.27922 |
+| Retention                                       |    13.6842  |    17.8082  |     18.7192  |      18.3673  |      16.9284  |             14.4481  |
+| Transfers                                       |     4.21053 |     1.36986 |     10.8374  |       8.16327 |      12.2164  |             11.8506  |
+| Training and Development                        |    17.8947  |    19.1781  |     12.3153  |      12.2449  |      10.6457  |             11.6883  |
+| Community engagement and relations              |     2.10526 |     4.10959 |      2.95567 |       4.59184 |       3.66492 |              3.08442 |
+| Leadership development                          |     7.36842 |    10.9589  |      7.88177 |       8.16327 |       7.67888 |              8.11688 |
+| Promotions                                      |     5.26316 |     8.21918 |      4.92611 |       7.14286 |       7.32984 |              7.95455 |
+| Written policies                                |     4.21053 |     1.36986 |      3.44828 |       1.02041 |       2.6178  |              1.94805 |
+| Workplace culture                               |    16.8421  |    13.6986  |     10.3448  |      11.2245  |       8.20244 |              8.27922 |
+| Employee support and wellbeing programs         |     4.21053 |     9.58904 |      5.91133 |       7.14286 |       6.80628 |              7.46753 |
+| Reporting and addressing discrimination or bias |     4.21053 |     2.73973 |      4.4335  |       6.12245 |       4.88656 |              3.8961  |
+| Other                                           |     3.15789 |     4.10959 |      7.88177 |       4.59184 |       7.67888 |              5.84416 |
+| Sample Size (n)                                 |    33       |    28       |     89       |      74       |     233       |            241       |
 
 ## Q34
  **Are there any other comments or suggestions you would like to share that was not asked in this survey?** 
