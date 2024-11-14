@@ -1,5 +1,9 @@
-
 Analysis on PPD surveys 11/12
+===============================
+
+The Philadelphia Police Department (PPD), in collaboration with researchers from the University of Pennsylvania, launched a Diversity, Equity, and Inclusion (DEI) survey to assess and advance its efforts toward creating a truly diverse, equitable, and inclusive workplace. This initiative is centered on fostering an environment that ensures fair treatment for all members, regardless of identity, and is a step toward aligning PPD’s practices with DEI goals. Working closely with the PPD's Interim Director of DEI, the survey was developed and launched on October 23, with a closing date set for November 15. Following the survey's release, PPD’s Director of Communications implemented a comprehensive outreach campaign to encourage maximum participation. Responses were collected both online and mail-in submissions, providing valuable insights into the department’s current climate and areas for improvement in DEI.
+
+This report consists of three sections of analysis: **IP Address Validation**, showing the distribution of respondent locations; **Demographic Distribution**, covering the distributions of gender, race, sworn status, and years of service; and **Answer Distribution and Word Cloud**, displaying the response distributions and a word cloud for open-ended questions.
 
 # IP address validation
 We convert IP address to actual cities and countries. All of the results are in United States and following is the distribution of majority cities with more than 5 devices from 1085 survey responses:
@@ -16,6 +20,8 @@ We convert IP address to actual cities and countries. All of the results are in 
 - Bensalem: 6 devices
 
 # Demographic distribution 
+
+**Note**: Due to the small number of responses in certain categories, **Non-binary** has been combined with **Other** under gender, and **Native American or Alaskan Native** has been combined with **A race/ethnicity not listed here** in race.
 
 ## Q36
  What is your gender? 
@@ -51,6 +57,8 @@ We convert IP address to actual cities and countries. All of the results are in 
 - More than 25 years: 34.53%
 
 # Answer Distribution and Word Cloud
+
+**Note**: Questions Q14, Q22, Q28, Q30, and Q34 are open-ended and include word clouds. Questions Q12-3 and Q33 are multiple-choice.
 
 ## Q1
  Do you agree or disagree with the following statements? I am valued within the Philadelphia Police Department. 
