@@ -28,7 +28,7 @@ We plot the survey received from each date and its completeness where orange is 
 
 
 
-We also plot the survey's progress distribution:
+We also plot the survey's progress distribution that most of them are highly completed:
 
 ![Survey Progress Distribution](/plots/progress_distribution.png)
 
