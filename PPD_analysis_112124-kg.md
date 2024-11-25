@@ -1546,6 +1546,11 @@ We also plot the survey's progress distribution that most of them are highly com
 
 ![Word Cloud for Q22](/wordclouds/Q22_2.png)
 
+### Text summary:
+-	Heavy qualitative data surrounding Northwestern’s training programs availabilities, but limited availability in PPD 
+- Large amounts of results in “training not public” 
+
+
 ## Q23_1
  **Please tell us if you agree or disagree with the following statements. 
  In the Philadelphia Police Department, the disciplinary process is fair.** 
@@ -1869,6 +1874,10 @@ We also plot the survey's progress distribution that most of them are highly com
 ### WordCloud for **Somewhat disagree**, **Strongly disagree** 
 ![Word Cloud for Q28](/wordclouds/Q28_2.png)
 
+### Text summary:
+-	Large amount of results transfers are limited to:	Affirmative Action: gender, sexual orientation, race 
+-	Main results: nepotism : ex. “You need to know someone for transfer”; “who you know”
+
 ## Q29
  **The process for transfers and assignments within the Philadelphia Police Department is transparent.** 
 
@@ -1922,6 +1931,13 @@ We also plot the survey's progress distribution that most of them are highly com
 
 ### WordCloud for **Somewhat disagree**, **Strongly disagree** 
 ![Word Cloud for Q30](/wordclouds/Q30_2.png)
+
+### Text summary:
+-	Transfer processes are extremely “opaque” 
+-	There are no opportunities to see within transfer process
+-	Strong correlation between strongly agreeing transfer is fair with identifying how to transfer 
+-	Transfer processes are only available known in nepotistic situations: many uses of nepotism again
+-	Majority qualitative data disagrees that transfer is fair and transparent
 
 ## Q31
  **The process for promotions within the Philadelphia Police Department is fair.** 
