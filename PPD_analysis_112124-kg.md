@@ -1548,7 +1548,93 @@ We also plot the survey's progress distribution that most of them are highly com
 
 ### Text summary:
 -	Heavy qualitative data surrounding Northwestern’s training programs availabilities, but limited availability in PPD 
-- Large amounts of results in “training not public” 
+- Large amounts of results in “training not public”
+
+- people who said never
+  - Summary: Majority of those who replied never say that training is simply not or
+very scarcely provided or that it is only given to those who know a higher up in
+the department (nepotism/favoritism). Many said that opportunities are not made
+known and that officers or individual departments had to pay for their own
+training and take off on their own time. Some said there was no one to provide
+training and that internal leadership was poor or lacking. Lastly, many said MPO
+was provided, but that MPO is not enough and will not help for career
+advancement.
+  - Answers only given once or twice
+    - Personal experience bc of race and gender (1)
+    - Training only for new cops
+    - Only street personnel receive
+    - Training not for street personnel bc the are needed on the street
+    - Used to receive training but things have changed
+    - Mainly offered to non sworn personnel
+    - Mainly offered tks worn personnel
+    - Instructors subvert their own subjects?
+  - Never demographics
+- People who said usually
+  - Summary: The majority of those who said "yes" described the frequency of
+training or the messages they received regarding training, often basing their
+answers on personal experience. However, most of these responses mentioned
+regular or annual training but did not address career growth, promotion, or the
+acquisition of special skills. Although some respondents noted that there is room
+for promotion, the majority did not.
+  - A small number of responses indicated financial barriers, a lack of knowledge,
+favoritism, training being limited to higher-ups or those in forensics, or
+dissatisfaction with the quality of available training options. Lastly, a few
+respondents mentioned that personnel need to request training more often or that
+training is only provided upon request.
+- Sometimes
+  - Favoritism and Unequal Access (majority of responses)
+    - Personal experience of favoritism, you aren't told about training unless
+you know someone, many said training is easier for sworn members to get,
+some said easier for higher ranked to get etc
+- 1 black male said favoritism for certain racial groups
+  - Limited Opportunities or Availability (second most popular response type)
+    - Few opportunities, not readily available, rarely heard about hard to get
+approved etc
+  - Barriers to Access
+    - Hard to get training that requires time off, financial restrictions, not
+enough staff, getting increasing more difficult to get training
+  - Mandatory or Basic Training Only
+    - Mainly mandatory, just MPO etc
+  - Opportunities Present but Limited Impact
+    - Yes, but could be more often, Gave an example of training, Yes, but not
+based on merit, Yes, but not for career advancement, Yes, but poor
+supervisors prevent utilization, Outside places offer advanced training,
+College fairs and tuition occasionally offered, Some interoffice transfers
+(rare)
+  - Available but Underutilized
+    - Available and made public but hard to get, Frequent postings, Yes but
+training is not set up by the department, Yes but the department doesn’t
+take advantage, Occasionally notified
+  - Specialized or Advanced Training Gaps
+    - Specialized training is offeree, training is more for street officers than
+sworn personnel, Not for veterans of dept, hard to find advanced training,
+Little offered for supervisors
+  - Suggestions for Improvement
+    - Expanded training, Better evaluation, Need more training opportunities,
+More focus on personnel development, Staff don’t value professional
+growth
+- Always:
+  - Most people said there were lots of opportunities or that opportunities were made
+known pretty often. Some pointed to everyone being able to apply and
+promotional tests being readily available. There were a few outlier responses
+about mental health resources and online training.
+- Hardly ever:
+  - Summary: Most respondents who selected Hardy ever discussed favoritism in
+tehri response. Some talked about budget, being understaffed, the high cost of
+training, lack of information about training, a lack of career advancement, bad
+quality training, and their own experience being overlooked for training
+opportunities.
+- Patterns based on Experience:
+  - Always: Most likely chosen by those with more than 25 years of experience.
+  - Hardly ever: Most likely chosen by those with 16-25 years of experience.
+  - Never: Most likely chosen by those with 16-25 years of experience.
+  - Sometimes: Most likely chosen by those with More than 25 years of experience.
+  - Usually: Most likely chosen by those with More than 25 years of experience.
+- Patterns based on demographics
+  - Most likely to pick sometimes and usually: hispanic women
+  - Most likely to pick hardly ever: white men
+  - Most likely to pick never: white men
+  - Most likely to pick always: black women
 
 
 ## Q23_1
