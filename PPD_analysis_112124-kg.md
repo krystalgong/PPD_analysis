@@ -1964,6 +1964,48 @@ opportunities.
 -	Large amount of results transfers are limited to:	Affirmative Action: gender, sexual orientation, race 
 -	Main results: nepotism : ex. “You need to know someone for transfer”; “who you know”
 
+- Most respondents selected disagree or strongly disagree (over half).
+  - Respondents overwhelmingly cited favoritism as the reason for transfers and promotions.
+  - Some said those who get moved up tend to be bad at their jobs or less qualified.
+  - Some said qualification or knowledge has little bearing on transfer or promotion.
+  - Some said there are few opportunities.
+  - Some shared their personal experience of being passed over for transfer and promotion.
+
+- Those that selected agree (somewhat or strongly):
+  - Most still had negative feelings about the process despite selecting agree.
+    - Many cited favoritism directly in the process (around 15 responses).
+    - Similarly, some indirectly cited favoritism:
+      - Unqualified individuals advance (around 3 responses).
+      - Supervisor influence or gatekeeping (1 response).
+    - Some said that qualifications did not matter as much as they should:
+      - Qualified individuals may not succeed – around 2 responses.
+      - Opportunity and fairness rarely tied to qualifications – about 2 responses.
+    - Some had positive feelings that things were improving or they had positive experiences with the system:
+      - Around 15 respondents said the process seems fair but is unclear.
+      - Some just expressed satisfaction – around 5 people.
+      - A few said simply that promotions are fair.
+      - A few said they thought improvements were being made.
+    - A small number, about 4, called for more transparency and other similar improvements to the system.
+    - Many did not elaborate on why they picked their answer.
+
+- Those that responded "don't know":
+  - Many cited having little to no experience with the process.
+
+- Demographics:
+  - Most likely to pick strongly agree: Black females.
+  - Most likely to pick strongly disagree: White males.
+  - Most likely to pick somewhat agree: White males.
+  - Most likely to pick somewhat disagree: White males.
+  - Most likely to pick don't know: White females.
+
+- Experience:
+  - "Don't know" was most likely chosen by those with 16–25 years of experience.
+  - "Somewhat agree" was most likely chosen by those with more than 25 years of experience.
+  - "Somewhat disagree" was most likely chosen by those with more than 25 years of experience.
+  - "Strongly agree" was most likely chosen by those with more than 25 years of experience.
+  - "Strongly disagree" was most likely chosen by those with 16–25 years of experience.
+
+  
 ## Q29
  **The process for transfers and assignments within the Philadelphia Police Department is transparent.** 
 
